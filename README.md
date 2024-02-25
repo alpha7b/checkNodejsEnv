@@ -1,1 +1,6 @@
-# nodejsenvchecker
+# checkNodejsEnv
+
+```
+npm i
+node checkEnv
+```
